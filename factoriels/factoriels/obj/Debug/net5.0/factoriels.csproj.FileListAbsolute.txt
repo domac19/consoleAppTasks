@@ -1,0 +1,16 @@
+D:\factoriels\factoriels\factoriels\bin\Debug\net5.0\factoriels.exe
+D:\factoriels\factoriels\factoriels\bin\Debug\net5.0\factoriels.deps.json
+D:\factoriels\factoriels\factoriels\bin\Debug\net5.0\factoriels.runtimeconfig.json
+D:\factoriels\factoriels\factoriels\bin\Debug\net5.0\factoriels.runtimeconfig.dev.json
+D:\factoriels\factoriels\factoriels\bin\Debug\net5.0\factoriels.dll
+D:\factoriels\factoriels\factoriels\bin\Debug\net5.0\ref\factoriels.dll
+D:\factoriels\factoriels\factoriels\bin\Debug\net5.0\factoriels.pdb
+D:\factoriels\factoriels\factoriels\obj\Debug\net5.0\factoriels.csproj.AssemblyReference.cache
+D:\factoriels\factoriels\factoriels\obj\Debug\net5.0\factoriels.GeneratedMSBuildEditorConfig.editorconfig
+D:\factoriels\factoriels\factoriels\obj\Debug\net5.0\factoriels.AssemblyInfoInputs.cache
+D:\factoriels\factoriels\factoriels\obj\Debug\net5.0\factoriels.AssemblyInfo.cs
+D:\factoriels\factoriels\factoriels\obj\Debug\net5.0\factoriels.csproj.CoreCompileInputs.cache
+D:\factoriels\factoriels\factoriels\obj\Debug\net5.0\factoriels.dll
+D:\factoriels\factoriels\factoriels\obj\Debug\net5.0\ref\factoriels.dll
+D:\factoriels\factoriels\factoriels\obj\Debug\net5.0\factoriels.pdb
+D:\factoriels\factoriels\factoriels\obj\Debug\net5.0\factoriels.genruntimeconfig.cache
