@@ -1,0 +1,16 @@
+D:\Reversing\ReverseVariables\ReverseVariables\bin\Debug\net5.0\ReverseVariables.exe
+D:\Reversing\ReverseVariables\ReverseVariables\bin\Debug\net5.0\ReverseVariables.deps.json
+D:\Reversing\ReverseVariables\ReverseVariables\bin\Debug\net5.0\ReverseVariables.runtimeconfig.json
+D:\Reversing\ReverseVariables\ReverseVariables\bin\Debug\net5.0\ReverseVariables.runtimeconfig.dev.json
+D:\Reversing\ReverseVariables\ReverseVariables\bin\Debug\net5.0\ReverseVariables.dll
+D:\Reversing\ReverseVariables\ReverseVariables\bin\Debug\net5.0\ref\ReverseVariables.dll
+D:\Reversing\ReverseVariables\ReverseVariables\bin\Debug\net5.0\ReverseVariables.pdb
+D:\Reversing\ReverseVariables\ReverseVariables\obj\Debug\net5.0\ReverseVariables.csproj.AssemblyReference.cache
+D:\Reversing\ReverseVariables\ReverseVariables\obj\Debug\net5.0\ReverseVariables.GeneratedMSBuildEditorConfig.editorconfig
+D:\Reversing\ReverseVariables\ReverseVariables\obj\Debug\net5.0\ReverseVariables.AssemblyInfoInputs.cache
+D:\Reversing\ReverseVariables\ReverseVariables\obj\Debug\net5.0\ReverseVariables.AssemblyInfo.cs
+D:\Reversing\ReverseVariables\ReverseVariables\obj\Debug\net5.0\ReverseVariables.csproj.CoreCompileInputs.cache
+D:\Reversing\ReverseVariables\ReverseVariables\obj\Debug\net5.0\ReverseVariables.dll
+D:\Reversing\ReverseVariables\ReverseVariables\obj\Debug\net5.0\ref\ReverseVariables.dll
+D:\Reversing\ReverseVariables\ReverseVariables\obj\Debug\net5.0\ReverseVariables.pdb
+D:\Reversing\ReverseVariables\ReverseVariables\obj\Debug\net5.0\ReverseVariables.genruntimeconfig.cache
