@@ -1,0 +1,16 @@
+D:\divideBy\divideBy\divideBy\bin\Debug\net5.0\divideBy.exe
+D:\divideBy\divideBy\divideBy\bin\Debug\net5.0\divideBy.deps.json
+D:\divideBy\divideBy\divideBy\bin\Debug\net5.0\divideBy.runtimeconfig.json
+D:\divideBy\divideBy\divideBy\bin\Debug\net5.0\divideBy.runtimeconfig.dev.json
+D:\divideBy\divideBy\divideBy\bin\Debug\net5.0\divideBy.dll
+D:\divideBy\divideBy\divideBy\bin\Debug\net5.0\ref\divideBy.dll
+D:\divideBy\divideBy\divideBy\bin\Debug\net5.0\divideBy.pdb
+D:\divideBy\divideBy\divideBy\obj\Debug\net5.0\divideBy.csproj.AssemblyReference.cache
+D:\divideBy\divideBy\divideBy\obj\Debug\net5.0\divideBy.GeneratedMSBuildEditorConfig.editorconfig
+D:\divideBy\divideBy\divideBy\obj\Debug\net5.0\divideBy.AssemblyInfoInputs.cache
+D:\divideBy\divideBy\divideBy\obj\Debug\net5.0\divideBy.AssemblyInfo.cs
+D:\divideBy\divideBy\divideBy\obj\Debug\net5.0\divideBy.csproj.CoreCompileInputs.cache
+D:\divideBy\divideBy\divideBy\obj\Debug\net5.0\divideBy.dll
+D:\divideBy\divideBy\divideBy\obj\Debug\net5.0\ref\divideBy.dll
+D:\divideBy\divideBy\divideBy\obj\Debug\net5.0\divideBy.pdb
+D:\divideBy\divideBy\divideBy\obj\Debug\net5.0\divideBy.genruntimeconfig.cache
