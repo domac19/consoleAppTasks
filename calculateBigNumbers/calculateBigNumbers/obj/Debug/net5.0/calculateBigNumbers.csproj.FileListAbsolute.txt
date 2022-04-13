@@ -1,0 +1,16 @@
+D:\bigNumbers\calculateBigNumbers\calculateBigNumbers\bin\Debug\net5.0\calculateBigNumbers.exe
+D:\bigNumbers\calculateBigNumbers\calculateBigNumbers\bin\Debug\net5.0\calculateBigNumbers.deps.json
+D:\bigNumbers\calculateBigNumbers\calculateBigNumbers\bin\Debug\net5.0\calculateBigNumbers.runtimeconfig.json
+D:\bigNumbers\calculateBigNumbers\calculateBigNumbers\bin\Debug\net5.0\calculateBigNumbers.runtimeconfig.dev.json
+D:\bigNumbers\calculateBigNumbers\calculateBigNumbers\bin\Debug\net5.0\calculateBigNumbers.dll
+D:\bigNumbers\calculateBigNumbers\calculateBigNumbers\bin\Debug\net5.0\ref\calculateBigNumbers.dll
+D:\bigNumbers\calculateBigNumbers\calculateBigNumbers\bin\Debug\net5.0\calculateBigNumbers.pdb
+D:\bigNumbers\calculateBigNumbers\calculateBigNumbers\obj\Debug\net5.0\calculateBigNumbers.csproj.AssemblyReference.cache
+D:\bigNumbers\calculateBigNumbers\calculateBigNumbers\obj\Debug\net5.0\calculateBigNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\bigNumbers\calculateBigNumbers\calculateBigNumbers\obj\Debug\net5.0\calculateBigNumbers.AssemblyInfoInputs.cache
+D:\bigNumbers\calculateBigNumbers\calculateBigNumbers\obj\Debug\net5.0\calculateBigNumbers.AssemblyInfo.cs
+D:\bigNumbers\calculateBigNumbers\calculateBigNumbers\obj\Debug\net5.0\calculateBigNumbers.csproj.CoreCompileInputs.cache
+D:\bigNumbers\calculateBigNumbers\calculateBigNumbers\obj\Debug\net5.0\calculateBigNumbers.dll
+D:\bigNumbers\calculateBigNumbers\calculateBigNumbers\obj\Debug\net5.0\ref\calculateBigNumbers.dll
+D:\bigNumbers\calculateBigNumbers\calculateBigNumbers\obj\Debug\net5.0\calculateBigNumbers.pdb
+D:\bigNumbers\calculateBigNumbers\calculateBigNumbers\obj\Debug\net5.0\calculateBigNumbers.genruntimeconfig.cache
