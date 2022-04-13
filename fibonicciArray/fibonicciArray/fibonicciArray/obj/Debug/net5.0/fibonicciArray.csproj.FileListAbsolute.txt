@@ -1,0 +1,16 @@
+D:\fibonicciArray\fibonicciArray\fibonicciArray\bin\Debug\net5.0\fibonicciArray.exe
+D:\fibonicciArray\fibonicciArray\fibonicciArray\bin\Debug\net5.0\fibonicciArray.deps.json
+D:\fibonicciArray\fibonicciArray\fibonicciArray\bin\Debug\net5.0\fibonicciArray.runtimeconfig.json
+D:\fibonicciArray\fibonicciArray\fibonicciArray\bin\Debug\net5.0\fibonicciArray.runtimeconfig.dev.json
+D:\fibonicciArray\fibonicciArray\fibonicciArray\bin\Debug\net5.0\fibonicciArray.dll
+D:\fibonicciArray\fibonicciArray\fibonicciArray\bin\Debug\net5.0\ref\fibonicciArray.dll
+D:\fibonicciArray\fibonicciArray\fibonicciArray\bin\Debug\net5.0\fibonicciArray.pdb
+D:\fibonicciArray\fibonicciArray\fibonicciArray\obj\Debug\net5.0\fibonicciArray.csproj.AssemblyReference.cache
+D:\fibonicciArray\fibonicciArray\fibonicciArray\obj\Debug\net5.0\fibonicciArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\fibonicciArray\fibonicciArray\fibonicciArray\obj\Debug\net5.0\fibonicciArray.AssemblyInfoInputs.cache
+D:\fibonicciArray\fibonicciArray\fibonicciArray\obj\Debug\net5.0\fibonicciArray.AssemblyInfo.cs
+D:\fibonicciArray\fibonicciArray\fibonicciArray\obj\Debug\net5.0\fibonicciArray.csproj.CoreCompileInputs.cache
+D:\fibonicciArray\fibonicciArray\fibonicciArray\obj\Debug\net5.0\fibonicciArray.dll
+D:\fibonicciArray\fibonicciArray\fibonicciArray\obj\Debug\net5.0\ref\fibonicciArray.dll
+D:\fibonicciArray\fibonicciArray\fibonicciArray\obj\Debug\net5.0\fibonicciArray.pdb
+D:\fibonicciArray\fibonicciArray\fibonicciArray\obj\Debug\net5.0\fibonicciArray.genruntimeconfig.cache
